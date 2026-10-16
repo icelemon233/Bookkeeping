@@ -2,21 +2,25 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-A personal bookkeeping app for iOS and Android, with a soft cloud-and-dessert visual style. Record everyday income and expenses, keep an eye on your monthly budget, and see where your money goes.
+Personal bookkeeping for iOS and Android.
 
-## What you can do
+Record income and expenses with a category, date, and note. Transactions stay on the device, and everyday recording works offline.
 
-- Add income and expenses with a category, date, and note.
-- Browse, search, filter, edit, and delete transactions.
-- View monthly income, spending, balance, and budget progress.
-- Explore category breakdowns, spending trends, and daily activity.
-- Spot possible duplicate entries and export records as CSV.
+## Records and reports
 
-Records are stored locally on the device, so everyday bookkeeping works offline.
+- Browse transactions by month, search, filter, edit, and delete entries.
+- Check income, spending, balance, and monthly budget progress.
+- View category breakdowns, recent trends, and daily activity.
+- Review possible duplicates and export records as CSV.
 
-## Try it from source
+## Run from source
 
-**iOS:** Requires macOS, Xcode 16, XcodeGen, and an iOS 17 or newer device or simulator.
+| Platform | Requirements | Start |
+| --- | --- | --- |
+| iOS | macOS, Xcode 16, XcodeGen; iOS 17+ | Generate the Xcode project, then run on a device or simulator. |
+| Android | Android Studio, JDK 17; Android 8.0+ | Open `android` and run the app. |
+
+For iOS:
 
 ```sh
 cd ios
@@ -24,14 +28,4 @@ xcodegen generate
 open CinnaBookkeeping.xcodeproj
 ```
 
-Choose a device or simulator in Xcode and run the app.
-
-**Android:** Open the `android` directory in Android Studio with JDK 17, then run the app on an Android 8.0 or newer device or emulator.
-
-## Related project
-
-[Cinna Design](https://github.com/icelemon233/cinna-design) provides the visual direction shared by the Cinna projects.
-
-## License
-
-[MIT](./LICENSE).
+[Cinna Design](https://github.com/icelemon233/cinna-design) is the visual reference for the app. Licensed under [MIT](./LICENSE).
