@@ -1,6 +1,8 @@
-# Cinna Bookkeeping
+<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Cinna Bookkeeping Cinna icon" width="128"></p>
 
-English | [简体中文](./README.zh-CN.md)
+<h1 align="center">Cinna Bookkeeping</h1>
+
+<p align="center">English · <a href="./README.zh-CN.md">简体中文</a></p>
 
 Personal bookkeeping for iOS and Android.
 

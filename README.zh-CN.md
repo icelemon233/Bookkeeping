@@ -1,6 +1,8 @@
-# Cinna Bookkeeping · 肉桂卷记账
+<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Cinna Bookkeeping Cinna icon" width="128"></p>
 
-[English](./README.md) | 简体中文
+<h1 align="center">Cinna Bookkeeping · 肉桂卷记账</h1>
+
+<p align="center"><a href="./README.md">English</a> · 简体中文</p>
 
 面向 iOS 和 Android 的个人记账应用。
 
