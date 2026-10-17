@@ -1,6 +1,6 @@
-<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Cinna Bookkeeping Cinna icon" width="128"></p>
+<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Bookkeeping icon" width="128"></p>
 
-<h1 align="center">Cinna Bookkeeping</h1>
+<h1 align="center">Bookkeeping</h1>
 
 <p align="center">English · <a href="./README.zh-CN.md">简体中文</a></p>
 
@@ -30,4 +30,6 @@ xcodegen generate
 open CinnaBookkeeping.xcodeproj
 ```
 
-[Cinna Design](https://github.com/icelemon233/cinna-design) is the visual reference for the app. Licensed under [MIT](./LICENSE).
+[Design](https://github.com/icelemon233/Design) is the visual reference for the app. Licensed under [MIT](./LICENSE).
+
+Developer: Cinna.

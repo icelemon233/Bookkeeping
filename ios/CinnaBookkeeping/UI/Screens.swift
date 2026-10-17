@@ -77,7 +77,7 @@ struct HomeView: View {
                 .padding(16)
             }
             .background(CinnaTheme.background.ignoresSafeArea())
-            .navigationTitle("肉桂卷记账")
+            .navigationTitle("Bookkeeping")
         }
     }
 }

@@ -175,7 +175,7 @@ private fun HomeScreen(
         contentPadding = androidx.compose.foundation.layout.PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(14.dp)
     ) {
-        item { ScreenTitle("肉桂卷记账") }
+        item { ScreenTitle("Bookkeeping") }
         item { MonthStepper(state.selectedMonth, repository::selectMonth) }
         item {
             CinnaCard {

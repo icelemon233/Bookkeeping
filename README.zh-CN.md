@@ -1,6 +1,6 @@
-<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Cinna Bookkeeping Cinna icon" width="128"></p>
+<p align="center"><img src="./docs/brand/cinna-app-icon.png" alt="Bookkeeping icon" width="128"></p>
 
-<h1 align="center">Cinna Bookkeeping · 肉桂卷记账</h1>
+<h1 align="center">Bookkeeping</h1>
 
 <p align="center"><a href="./README.md">English</a> · 简体中文</p>
 
@@ -30,4 +30,6 @@ xcodegen generate
 open CinnaBookkeeping.xcodeproj
 ```
 
-应用视觉参考 [Cinna Design](https://github.com/icelemon233/cinna-design)。采用 [MIT 许可证](./LICENSE)。
+应用视觉参考 [Design](https://github.com/icelemon233/Design)。采用 [MIT 许可证](./LICENSE)。
+
+开发者：Cinna。
